@@ -18,7 +18,7 @@ Wallet은 디지털 신원, 자격 증명, 암호화 키 등의 중요한 데이
 ## Open DID의 Wallet
 Open DID의 Wallet은 Open DID 시스템에 등록한 Wallet 사업자가 제공한 Wallet을 말합니다. Wallet 사업자는 다음 세 가지의 형태로 Wallet을 제공할 수 있습니다.
 * File : 각 앱마다 별도로 존재하는 파일 형태의 Wallet 입니다.
-* App : 별도의 App으로 제공하는 Wallet 으로, 한 단말의 여러 App에서 공동으로 사용할 수 있습니다.
+* App : 별도의 App으로 제공하는 Wallet 으로, 한개 단말의 여러 App에서 공동으로 사용할 수 있습니다.
 * Cloud : Cloud 기반으로 제공하는 Wallet 입니다.
 
 ## Wallet Token
