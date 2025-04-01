@@ -31,7 +31,7 @@ Open DID는 클라이언트의 권한을 확인하기 위해 다양한 토큰들
 Open DID에서 사용하는 토큰은 Wallet Token과 Server Token이 있습니다.
 
 ### Wallet Token
-Wallet Token은 App이 Wallet에 접근할 수 있게 하는 Token으로 Wallet이 발급합니다.
+Wallet Token은 App이 Wallet에 접근할 수 있게 하는 Token으로, Wallet이 발급합니다.
 
 #### Wallet Token 용어
 * **Wallet Token Seed**: Wallet이 생성하여 App에 전달하는 초기 시드 값입니다.
