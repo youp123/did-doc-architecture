@@ -60,7 +60,7 @@ Cloud Wallet은 클라우드 기반으로 제공되는 Wallet입니다. Cloud Wa
 ## Wallet Data
 Open DID를 구성하는 서버와 App은 Wallet을 가지고 있습니다. 이 장에서는 Wallet에 저장되어 있는 데이터에 대해 설명합니다.
 
-**주의:** Wallet Data에 초점을 맞추기 위하여 **이 장에서는 Filw Wallet이라 가정하고 설명합니다.**
+**주의:** Wallet Data에 초점을 맞추기 위하여 **이 장에서는 File Wallet이라 가정하고 설명합니다.**
 
 ### Server Wallet
 서버의 Wallet은 서비스의 정보를 안전하게 저장하고 관리하는 역할을 합니다. 서버는 서비스 단위로 Wallet을 가지고 있습니다. 
