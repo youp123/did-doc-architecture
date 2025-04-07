@@ -21,7 +21,7 @@ CA(Certified App)는 신뢰 가능한 월랫 기능을 제공하기 위해서 �
 상기 SDK구조는 OpenDID의 클라이언트의 인가앱과 월랫 소프트웨어 관계 구조도이며 아래는 각 SDK별 대표 클래스를 설명한다.
 
 - Wallet SDK
-  - Open DID에 필요한 WalletToken, Lock/Unlock, Key, DID Document(DID 문서), Verifiable Credential(이하 VC) 정보를 생성 및 보관, 관리하는 기능을 제공한다.
+  - Open DID에 필요한 WalletToken, Lock/Unlock, Key, DID Document(DID 문서) 정보를 생성 및 보관, 관리하는 기능을 제공한다.
 - Core SDK
   - Open DID에 필요한 Key, DID Document(DID 문서), Verifiable Credential(이하 VC) 정보를 생성 및 보관, 관리하는 기능을 제공한다.
 - Communication SDK
